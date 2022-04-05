@@ -1,6 +1,8 @@
 
 public class Data {
 	public static void main(String[] args) {
+String d="never ever givup";
+int a=20;
 byte age=26;
 short mark=5400;
 int accNo=987654321;
