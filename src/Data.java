@@ -1,8 +1,13 @@
 
 public class Data {
 	public static void main(String[] args) {
+<<<<<<< HEAD
 String d="never ever givup";
 int a=20;
+=======
+int a=10;
+String s="never giveup";
+>>>>>>> 61cffff345f017ce310a49ad82c55ce40a5ea882
 byte age=26;
 short mark=5400;
 int accNo=987654321;
